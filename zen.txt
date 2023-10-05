@@ -38,3 +38,5 @@
 
 Пространства имён — отличная штука! Будем делать их больше
 	.vscode/extensions.json
+	[main] $ git switch BRANCH_NAME
+> Switched to a new branch 'BRANCH_NAME'
