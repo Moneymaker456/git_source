@@ -40,3 +40,11 @@
 	.vscode/extensions.json
 	[main] $ git switch BRANCH_NAME
 > Switched to a new branch 'BRANCH_NAME'
+	[pull-inactive-pull-request] $ git push origin BRANCH_NAME
+> Counting objects: 32, done.
+> Delta compression using up to 8 threads.
+> Compressing objects: 100% (26/26), done.
+> Writing objects: 100% (29/29), 74.94 KiB | 0 bytes/s, done.
+> Total 29 (delta 8), reused 0 (delta 0)
+> To https://github.com/USERNAME/REPOSITORY.git
+
